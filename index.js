@@ -68,8 +68,8 @@ app.listen(process.env.PORT || 4000, () => console.log('Example app listening on
 function createOrder(data) {
 
   let payload = {
-    username: 'TestTest',
-    password:'Test#!',
+    username: 'Ecocanabis',
+    password:'Marina2020#!',
     ordernumber: 1,
     shipto: 'John',
     shipstreet: 'Street 2 near berlin road ',
